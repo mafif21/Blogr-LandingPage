@@ -10,6 +10,9 @@ Thanks for checking out this front-end coding challenge.
 
 **To do this challenge, you need a basic understanding of HTML, CSS and JavaScript.**
 
+# Deploy
+click here if you want to see the website => https://6249c2b1d8a48941b062ff8c--timely-beijinho-694fcb.netlify.app/
+
 ## The challenge
 
 Your challenge is to build out this landing page and get it looking as close to the design as possible.
